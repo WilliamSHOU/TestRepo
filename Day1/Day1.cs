@@ -43,9 +43,11 @@ namespace ThrityDays
             //d4.MoveZeroes(d4.Nums);
             //d4.PrintNums();
 
-            Day5 d5 = new Day5();
-            WriteLine(d5.MaxProfit(d5.Prices));
+            //Day5 d5 = new Day5();
+            //WriteLine(d5.MaxProfit(d5.Prices));
 
+            Day6 d6 = new Day6();
+            d6.GroupAnagrams(d6._strs);
             ReadLine();
         }
 
